@@ -36,6 +36,10 @@ The data for this project
  9. Driver Ratings Distribution
  10. Customer vs. Driver Ratings
 
+# Dashbord
+ <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola-data-file.xlsx"> Dataset</a>
+
+ <img src = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Overall.pdf" alt="ola_report">
 ## Segregation of the views:
  1. Overall--
  >1. Ride Volume Over Time
