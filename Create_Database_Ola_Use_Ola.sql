@@ -1,4 +1,4 @@
- #  Create Database Ola;
+   Create Database Ola;
           Use Ola;
 
 -- 1. Retrieve all successful bookings:
@@ -74,7 +74,7 @@
 -- =====================================================================================
 -- --------------------------------------------------------------------------------------
 
- # Retrieve All Answers
+  Retrieve All Answers
   
  -- 1. Retrieve all successful bookings:
  Select * From Successful_Bookings;
