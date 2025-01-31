@@ -10,7 +10,7 @@ This project is divided into the following sections:
 
 The goal is to understand trends, customer behavior, and operational patterns, such as peak hours, ride distribution, and customer demographics.
 ## Dataset Used
-The data for this project 
+The dataset for this project 
 - <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola-data-file.xlsx"> Dataset</a>
 ## Business Questions To Answer
 ## For SOL 
@@ -23,7 +23,7 @@ The data for this project
  7. Retrieve all rides where payment was made using UPI:
  8. Find the average customer rating per vehicle type:
  9. Calculate the total booking value of rides completed successfully:
- 10. List all incomplete rides along with the reason:
+  10. List all incomplete rides along with the reason:
 
 - Solution of these problem <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/SQL_queries.SQL>SQl_Queries</a>
 -  Create Database Ola_Use Ola(Through Views Database) <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Create_Database_Ola_Use_Ola.sql >SQl_Queries </a>
@@ -38,7 +38,7 @@ The data for this project
  7. Top 5 Customers by Total Booking Value
  8. Ride Distance Distribution Per Day
  9. Driver Ratings Distribution
- 10. Customer vs. Driver Ratings
+  10. Customer vs. Driver Ratings
 
 # Dashboard
 <img src = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Overall.png" alt = "Overall-Report-view">
