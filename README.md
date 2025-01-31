@@ -39,7 +39,8 @@ The data for this project
 # Dashbord
  <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola-data-file.xlsx"> Dataset</a>
 
- <img src = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Overall.pdf","https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola__Report-Vehicle_Type.pdf" alt="ola_report">
+ <img src = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Overall.pdf" alt="ola_report">
+  <img src = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola__Report-Vehicle_Type.pdf" alt="ola_report">
 ## Segregation of the views:
  1. Overall--
  >1. Ride Volume Over Time
