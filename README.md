@@ -37,6 +37,7 @@ The data for this project
  10. Customer vs. Driver Ratings
 
 # Dashbord
+<img src = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Overall.png" alt = "Overall-Report-view">
  <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Overall.pdf"> Overall-Report</a> ||
  <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola__Report-Vehicle_Type.pdf"> Vehicle_tyoe-Report</a> ||
  <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Revenue.pdf"> Revenue-Report</a> ||
