@@ -42,7 +42,7 @@ The data for this project
  >2. Booking Status Breakdown
  
  2. Vehicle Type
-  >1. Top 5 Vehicle Types by Ride Distance
+ >1. Top 5 Vehicle Types by Ride Distance
 
  3. Revenue--
  >1. Revenue by Payment Method
