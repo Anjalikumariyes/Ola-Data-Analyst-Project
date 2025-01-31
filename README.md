@@ -9,10 +9,10 @@ This project is divided into the following sections:
 - **Data Visualization**: Power BI is used to create insightful reports and dashboards for better business decision-making.
 
 The goal is to understand trends, customer behavior, and operational patterns, such as peak hours, ride distribution, and customer demographics.
-# Dataset Used
+## Dataset Used
 The data for this project 
 - <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola-data-file.xlsx"> Dataset</a>
-# Business Questions To Answer
+## Business Questions To Answer
 ## For SOL 
  1. Retrieve all successful bookings:
  2. Find the average ride distance for each vehicle type:
@@ -35,7 +35,7 @@ The data for this project
  8. Ride Distance Distribution Per Day
  9. Driver Ratings Distribution
  10. Customer vs. Driver Ratings
- # Data Columns
+ ## Data Columns
  1. Date
  2. Time
  3. Booking_ID
