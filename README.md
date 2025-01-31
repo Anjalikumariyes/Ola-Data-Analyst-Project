@@ -24,6 +24,12 @@ The data for this project
  8. Find the average customer rating per vehicle type:
  9. Calculate the total booking value of rides completed successfully:
  10. List all incomplete rides along with the reason:
+
+
+- <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/SQL_queries.SQL>SQl_Queries</a>
+- <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Create_Database_Ola_Use_Ola.sql>Create_Database_Ola_OLA</a>
+
+     
  ## For Power BI 
  1. Ride Volume Over Time
  2. Booking Status Breakdown
