@@ -1,4 +1,5 @@
--- #  Create Database Ola-Use Ola . sql
+ #  Create Database Ola;
+          Use Ola;
 
 -- 1. Retrieve all successful bookings:
  Create View Successful_Bookings As
