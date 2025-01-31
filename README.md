@@ -25,11 +25,9 @@ The data for this project
  9. Calculate the total booking value of rides completed successfully:
  10. List all incomplete rides along with the reason:
 
-
-- <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/SQL_queries.SQL>SQl_Queries</a>
-- <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Create_Database_Ola_Use_Ola.sql>Create_Database_Ola_OLA</a>
-
-     
+- Solution of these problem <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/SQL_queries.SQL>SQl_Queries</a>
+-  Create Database Ola_Use Ola <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Create_Database_Ola_Use_Ola.sql >Create_Database</a>
+ 
  ## For Power BI 
  1. Ride Volume Over Time
  2. Booking Status Breakdown
