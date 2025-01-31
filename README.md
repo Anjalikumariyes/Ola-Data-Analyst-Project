@@ -38,20 +38,24 @@ The data for this project
 
 ## Segregation of the views:
  1. Overall--
- Ride Volume Over Time
- Booking Status Breakdown
+ >  Ride Volume Over Time
+ >  Booking Status Breakdown
+ 
  2. Vehicle Type
-Top 5 Vehicle Types by Ride Distance
+  > Top 5 Vehicle Types by Ride Distance
+
  3. Revenue--
-Revenue by Payment Method
- Top 5 Customers by Total Booking Value
- Ride Distance Distribution Per Day
+ >  Revenue by Payment Method
+ >  Top 5 Customers by Total Booking Value
+ >  Ride Distance Distribution Per Day
+ 
  4. Cancellation--
- Cancelled Rides Reasons (Customer)
- cancelled Rides Reasons(Drivers)
- 5. Ratings--
- Driver Ratings
- Customer Ratings
+ >  Cancelled Rides Reasons (Customer)
+ >  Cancelled Rides Reasons(Drivers)
+
+ 6. Ratings--
+ >  Driver Ratings
+ >  Customer Ratings
 
  ##  Qestion to Answers:
  1. Ride Volume Over Time: A time-series chart showing the number of rides per day/week.
