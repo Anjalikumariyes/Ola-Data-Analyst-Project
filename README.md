@@ -13,7 +13,7 @@ The goal is to understand trends, customer behavior, and operational patterns, s
 The data for this project 
 - <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola-data-file.xlsx"> Dataset</a>
 # Business Questions To Answer
-## For SOL :
+## For SOL 
  1. Retrieve all successful bookings:
  2. Find the average ride distance for each vehicle type:
  3. Get the total number of cancelled rides by customers:
@@ -24,7 +24,7 @@ The data for this project
  8. Find the average customer rating per vehicle type:
  9. Calculate the total booking value of rides completed successfully:
  10. List all incomplete rides along with the reason:
- # For Power BI :
+ ## For Power BI 
  1. Ride Volume Over Time
  2. Booking Status Breakdown
  3. Top 5 Vehicle Types by Ride Distance
