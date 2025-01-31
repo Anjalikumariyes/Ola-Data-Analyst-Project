@@ -43,23 +43,23 @@ The data for this project
  <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Cancellation.pdf"> Cancellation-Report</a> ||
  <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Rating.pdf> Rating-Report</a> 
 ## Segregation of the views:
- 1. Overall--
+ 1. Overall
  >1. Ride Volume Over Time
  >2. Booking Status Breakdown
  
  2. Vehicle Type
  >1. Top 5 Vehicle Types by Ride Distance
 
- 3. Revenue--
+ 3. Revenue
  >1. Revenue by Payment Method
  >2. Top 5 Customers by Total Booking Value
  >3. Ride Distance Distribution Per Day
  
- 4. Cancellation--
+ 4. Cancellation
  >1. Cancelled Rides Reasons (Customer)
  >2. Cancelled Rides Reasons(Drivers)
 
- 6. Ratings--
+ 6. Ratings
  >1.Driver Ratings
  >2.Customer Ratings
 
