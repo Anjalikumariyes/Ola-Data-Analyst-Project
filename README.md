@@ -63,7 +63,7 @@ The data for this project
 
  3. Booking Status Breakdown:
     > A pie or doughnut chart displaying the proportion of different
- booking statuses (success, cancelled by the customer, cancelled by the driver, etc.).
+    booking statuses (success, cancelled by the customer, cancelled by the driver, etc.).
  
  5. Top 5 Vehicle Types by Ride Distance:
     > A bar chart ranking vehicle types based on the total distance covered.
@@ -78,7 +78,7 @@ The data for this project
      > A stacked bar chart displaying total revenue based on payment methods (Cash, UPI, Credit Card, etc.).
  
  13. Top 5 Customers by Total Booking Value:
-  > A leaderboard visual listing customers who have spent the most on bookings.
+   > A leaderboard visual listing customers who have spent the most on bookings.
  
  15. Ride Distance Distribution Per Day:
      > A histogram or scatter plot showing the distribution of ride distances for different Dates.
