@@ -37,11 +37,11 @@ The data for this project
  10. Customer vs. Driver Ratings
 
 # Dashbord
-> <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Overall.pdf"> Overall-Report</a>
-> <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola__Report-Vehicle_Type.pdf"> Vehicle_tyoe-Report</a>
-> <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Revenue.pdf"> Revenue-Report</a>
->  <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Cancellation.pdf"> Cancellation-Report</a>
->  <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Rating.pdf> Rating-Report</a>
+ <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Overall.pdf"> Overall-Report</a> ||
+ <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola__Report-Vehicle_Type.pdf"> Vehicle_tyoe-Report</a> ||
+ <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Revenue.pdf"> Revenue-Report</a> ||
+ <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Cancellation.pdf"> Cancellation-Report</a> ||
+ <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Rating.pdf> Rating-Report</a> 
 ## Segregation of the views:
  1. Overall--
  >1. Ride Volume Over Time
