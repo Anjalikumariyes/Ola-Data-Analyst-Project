@@ -26,7 +26,7 @@ The data for this project
  10. List all incomplete rides along with the reason:
 
 - Solution of these problem <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/SQL_queries.SQL>SQl_Queries</a>
--  Create Database Ola_Use Ola <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Create_Database_Ola_Use_Ola.sql >Create_Database</a>
+-  Create Database Ola_Use Ola(Through Views Database) <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Create_Database_Ola_Use_Ola.sql >SQl_Queries </a>
  
  ## For Power BI 
  1. Ride Volume Over Time
@@ -40,7 +40,7 @@ The data for this project
  9. Driver Ratings Distribution
  10. Customer vs. Driver Ratings
 
-# Dashbord
+# Dashboard
 <img src = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Overall.png" alt = "Overall-Report-view">
  <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Overall.pdf> Overall-Report</a> ||
  <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola__Report-Vehicle_Type.pdf"> Vehicle_tyoe-Report</a> ||
