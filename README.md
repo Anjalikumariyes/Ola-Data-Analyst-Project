@@ -126,16 +126,17 @@ The dataset for this project
 
 # Conclusion
 ## Problem Statement:
-Analyzed a 1-month dataset (40,000 rows) for Bengaluru to understand ride patterns, optimize cancellations, and improve booking efficiency. The goal was to drive better customer experience and enhance operational strategies based on data insights.
+- Analyzed a 1-month dataset (40,000 rows) for Bengaluru to understand ride patterns, optimize cancellations, and improve booking efficiency.
+-  The goal was to drive better customer experience and enhance operational strategies based on data insights.
 
 ## SQL Queries & Insights Generated:
 
-Identified successful bookings (62% success rate) and calculated average ride distance for each vehicle type, leading to better resource allocation.
-Analyzed cancellation trends, uncovering that 7% of cancellations were customer-driven and 18% by drivers, with reasons like “Wrong address” and “AC issues” identified.
-Ranked top 5 customers by ride frequency and calculated booking values, driving targeted marketing efforts.
-Reviewed payment methods and identified UPI as a preferred payment option for 30% of transactions.
+- Identified successful bookings (62% success rate) and calculated average ride distance for each vehicle type, leading to better resource allocation.
+- Analyzed cancellation trends, uncovering that 7% of cancellations were customer-driven and 18% by drivers, with reasons like “Wrong address” and “AC issues” identified.
+- Ranked top 5 customers by ride frequency and calculated booking values, driving targeted marketing efforts.
+- Reviewed payment methods and identified UPI as a preferred payment option for 30% of transactions.
 
 ## Power BI Dashboards & Insights:
-Created interactive dashboards visualizing Ride Volume over Time, Booking Status Breakdown, and Top 5 Vehicle Types by Distance, optimizing decisions for peak demand times.
-Analyzed cancelled ride reasons and revenue by payment method, providing insights to reduce cancellations and boost weekend orders.
-Visualized customer vs. driver ratings and driver performance distribution, enabling actionable strategies to improve customer satisfaction.
+- Created interactive dashboards visualizing Ride Volume over Time, Booking Status Breakdown, and Top 5 Vehicle Types by Distance, optimizing decisions for peak demand times.
+- Analyzed cancelled ride reasons and revenue by payment method, providing insights to reduce cancellations and boost weekend orders.
+- Visualized customer vs. driver ratings and driver performance distribution, enabling actionable strategies to improve customer satisfaction.
