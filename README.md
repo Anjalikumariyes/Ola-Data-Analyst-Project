@@ -125,18 +125,20 @@ The dataset for this project
  19. Customer_Rating
 
 # Conclusion
+
 ## Problem Statement:
-- Analyzed a 1-month dataset (40,000 rows) for Bengaluru to understand ride patterns, optimize cancellations, and improve booking efficiency.
--  The goal was to drive better customer experience and enhance operational strategies based on data insights.
+Analyzed 1-month ride data (40,000 rows) for Bengaluru to optimize booking success, reduce cancellations, and improve ride efficiency. Focused on improving operational strategies and enhancing customer experience through data insights.
 
-## SQL Queries & Insights Generated:
+## SQL Queries & Insights:
 
-- Identified successful bookings (62% success rate) and calculated average ride distance for each vehicle type, leading to better resource allocation.
-- Analyzed cancellation trends, uncovering that 7% of cancellations were customer-driven and 18% by drivers, with reasons like “Wrong address” and “AC issues” identified.
-- Ranked top 5 customers by ride frequency and calculated booking values, driving targeted marketing efforts.
-- Reviewed payment methods and identified UPI as a preferred payment option for 30% of transactions.
+- Extracted successful bookings (62% success rate), analyzed cancelled rides by both customers (7%) and drivers (18%), identifying reasons like "Wrong address" and "AC issues."
+- Calculated average ride distances by vehicle type (Auto, Prime Plus, etc.) and the total booking value of successful rides, contributing to revenue optimization.
+- Ranked top 5 customers by ride frequency and analyzed driver ratings for Prime Sedan bookings to identify areas of improvement.
+- Identified UPI as a dominant payment method for 30% of rides, helping streamline payment process insights.
+
 
 ## Power BI Dashboards & Insights:
-- Created interactive dashboards visualizing Ride Volume over Time, Booking Status Breakdown, and Top 5 Vehicle Types by Distance, optimizing decisions for peak demand times.
-- Analyzed cancelled ride reasons and revenue by payment method, providing insights to reduce cancellations and boost weekend orders.
-- Visualized customer vs. driver ratings and driver performance distribution, enabling actionable strategies to improve customer satisfaction.
+- Visualized ride volume over time and booking status breakdown, enabling targeted strategies for peak times like weekends and match days.
+- Analyzed top 5 vehicle types by ride distance and average customer ratings per vehicle type, identifying high-performing segments.
+- Tracked cancellation reasons and revenue by payment method, helping reduce cancellations and increase revenue from high-value bookings.
+- Visualized customer vs. driver ratings to improve customer service and driver performance.
