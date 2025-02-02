@@ -127,15 +127,17 @@ The dataset for this project
 # Conclusion
 
 ## Problem Statement:
-Analyzed 1-month ride data (40,000 rows) for Bengaluru to optimize booking success, reduce cancellations, and improve ride efficiency. Focused on improving operational strategies and enhancing customer experience through data insights.
+- Analyzed a 1-month dataset (40,000 rows) for Bengaluru to optimize ride bookings, reduce cancellations, and improve overall service performance.
+-  Focused on improving customer satisfaction, operational efficiency, and revenue through data insights.
 
-## SQL Queries & Insights:
+## Key SQL Queries & Insights:
 
-- Extracted successful bookings (62% success rate), analyzed cancelled rides by both customers (7%) and drivers (18%), identifying reasons like "Wrong address" and "AC issues."
-- Calculated average ride distances by vehicle type (Auto, Prime Plus, etc.) and the total booking value of successful rides, contributing to revenue optimization.
-- Ranked top 5 customers by ride frequency and analyzed driver ratings for Prime Sedan bookings to identify areas of improvement.
-- Identified UPI as a dominant payment method for 30% of rides, helping streamline payment process insights.
-
+- Achieved 62% successful bookings by identifying key factors affecting booking status and reducing cancellations by <7% (customer) and <18% (driver).
+- Identified top 5 customers with the highest booking frequency and calculated the average ride distance for each vehicle type (Auto, Mini, Prime Plus, etc.).
+- Analyzed cancellation reasons: Found that AC not working and driver moving away from pickup location were the top issues for 4-wheeler cancellations.
+- Calculated the total booking value for successful rides and identified revenue trends with 70% of orders under 500 INR and 28% above 500 INR.
+- Calculated the average customer and driver ratings for each vehicle type, enabling better quality control and improvement strategies.
+- Tracked incomplete rides (less than 6%), identifying key issues like vehicle breakdowns and other reasons.
 
 ## Power BI Dashboards & Insights:
 - Visualized ride volume over time and booking status breakdown, enabling targeted strategies for peak times like weekends and match days.
